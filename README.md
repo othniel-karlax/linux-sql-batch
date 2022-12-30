@@ -1,0 +1,3 @@
+# linux-sql-batch
+
+THIS IS A REPOSITORY FOR OUR BATCH PRACTICE....
